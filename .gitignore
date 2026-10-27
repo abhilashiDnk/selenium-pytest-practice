@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# Pytest cache
+.pytest_cache/
+
+# Generated reports and screenshots
+reports/
+screenshots/
+
+# Local browser profile and secrets
+edge_qa_profile/
+.env
